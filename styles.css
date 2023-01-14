@@ -1,0 +1,18 @@
+* {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1 {
+        color: pink;
+        background-color: blue;
+}
+
+h2 {
+        color: orange;
+        background-color: blue;
+        font-size: 40px;
+}
+
+ul > li > a {
+        color: yellow;
+}
